@@ -1,6 +1,3 @@
-Here’s a detailed and interesting README description for your mental health counseling chatbot project:
-
----
 
 # 🧠 Mental Health Support Chatbot with Llama 2 and Sentiment Analysis
 
